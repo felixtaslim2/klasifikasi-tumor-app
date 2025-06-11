@@ -32,11 +32,16 @@ API: [https://api.capstone.daffakhairullah.my.id](https://api.capstone.daffakhai
 ---
 
 ## 🗂️ Project Structure
-📁 klasifikasi_tumor-app/
-├── frontend/ # React App (Vite)
-├── flask/ # Flask app with TensorFlow model
-├── database/ # PHP API + MySQL
-├── public/ # Assets (favicon, images, etc.)
-└── README.md
+📁 klasifikasi_tumor-app/  
+├── frontend/ # React App (Vite)  
+├── flask/ # Flask app with TensorFlow model  
+├── database/ # PHP API + MySQL  
+├── public/ # Assets (favicon, images, etc.)  
+└── README.md  
 
-FILE MACHINELEARNING :(https://drive.google.com/drive/folders/1mvKnUY-gzsQcuvBsmDTM_QVJA8upj2bO)
+---
+
+## 🤖 Machine Learning Model
+
+- Model files: [Google Drive Folder](https://drive.google.com/drive/folders/1mvKnUY-gzsQcuvBsmDTM_QVJA8upj2bO)
+- Machine Learning Repository: [https://github.com/nanda910/Brain-Tumor-Detection](https://github.com/nanda910/Brain-Tumor-Detection)
